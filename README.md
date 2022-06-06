@@ -1,1 +1,1 @@
-# check report.pdf for our guide
+# check report.pdf for our project guide
